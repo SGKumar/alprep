@@ -12,4 +12,3 @@ branch.master.merge=refs/heads/master
 credential.helper=store
 credential.helper=store
 user.name=SGKumar
-user.email=ssgkumar.tech@gmail.com
