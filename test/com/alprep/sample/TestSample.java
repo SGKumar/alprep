@@ -1,5 +1,3 @@
-// File: src/test/java/com/mrhaki/gradle/SampleTest.java
-
 //package com.alprep.sample;
 
 import static org.junit.Assert.*;
