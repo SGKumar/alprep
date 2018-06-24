@@ -1,0 +1,9 @@
+.classpath
+.git-credentials
+.git/
+.gradle/
+.project
+.settings/
+.vscode/
+bin/
+build/
