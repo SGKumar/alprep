@@ -45,6 +45,7 @@ sourceSets {
 }
 
 test {
+    dependsOn 'cleanTest'
     beforeTest { descriptor ->
         //logger.lifecycle("Running test: $descriptor.className")
         //logger.lifecycle("Running test: $descriptor\t$descriptor.className")
@@ -72,7 +73,7 @@ test {
 
 testlogger {
     // pick a theme - mocha, standard or plain
-    theme 'standard'
+    theme 'mocha'
 
     // set to false to disable detailed failure logs
     showExceptions true
