@@ -1,4 +1,4 @@
-//package com.alprep.sample;
+package com.alprep.sample;
 
 import static org.junit.Assert.*;
 
